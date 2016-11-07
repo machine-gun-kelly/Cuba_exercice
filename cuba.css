@@ -1,0 +1,255 @@
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+#header {
+    
+    background-color: #87509c;
+    
+    font-family: Avenir;
+    color: white;
+    
+    height: 400px;
+    padding: 50px;
+    margin: -10px;
+}
+
+button {
+    text-align: center;
+    padding: 20px 50px;
+    background-color: #E97D52;
+    border-bottom: solid 3px #C66944;
+    border-radius: 4px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    color: #ffffff;
+    font-size: 16Px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+.nav {  
+    
+    width: 90%;   
+}
+
+.nav p {
+    float: right;
+    text-align: right;
+    padding: 10px 20px;
+}
+
+.nav p:hover {
+    
+    background-color: #643a79;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.background p:hover {
+    
+    background-color: white;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.space {
+    
+    clear: both;
+    padding: 10px;
+}
+
+
+.floatleft {
+    
+    float: left;
+    
+}
+
+.logo {
+    
+    margin-left: 60px;
+}
+
+#services {
+    
+    background-color: #17c2a4;
+    
+    font-family: Avenir;
+    color: white;
+    
+    height: 650px;
+    padding: 50px;
+    margin: -10px;
+    
+}
+
+#services .servicesImageFirst {
+    margin-left:230px ; 
+    display:inline-block
+}
+
+#services .servicesImage {
+    margin-left:130px ; 
+    display:inline-block
+}
+
+#services .servicesImageLast {
+    margin-left:170px ; 
+    display:inline-block
+}
+
+#services .serviceNameFirst {
+    margin-left:200px ; 
+    display:inline-block
+}
+
+#services .serviceName {
+    margin-left:150px ; 
+    display:inline-block
+}
+
+#services .serviceNameLast {
+    margin-left:100px ; 
+    display:inline-block
+}
+
+#team {
+    
+    background-color: #e7f1f8;
+    font-family: Avenir;
+    color: #3c4761;
+    
+    height: 650px;
+    padding: 50px;
+    margin: -10px;
+}
+
+#skills {
+    
+    background-color: #FFFFFF;
+    font-family: Avenir;
+    color: #3c4761;
+    
+    height: 500px;
+    padding: 50px;
+    margin: -10px;
+}
+
+#portfolio {
+    
+    background-color: #ffdd99;
+    font-family: Avenir;
+    color: #3c4761;
+    
+    height: 1000px;
+    padding: 50px;
+    margin: -10px;
+}
+
+#aboutUs {
+    
+    background-color: #d74680;
+    font-family: Avenir;
+    color: white;
+    
+    height: 650px;
+    padding: 50px;
+    margin: -10px;
+}
+
+#getInTouch {
+    
+    background-color: #3c5499;
+    font-family: Avenir;
+    color: white;
+    
+    height: 600px;
+    padding: 50px;
+    margin: -10px;
+}
+
+#footer {
+    
+    background-color: #344b8e;
+    font-family: Avenir;
+    color: white;
+    
+    height: 60px;
+    margin: -10px;
+}
+
+input {
+
+    border-radius: 4px;
+    background-color: #273a71;
+    border: 0;
+    
+    height: 50px;
+}
+
+textarea {
+    
+    border-radius: 4px;
+    background-color: #273a71;
+    border: 0;
+    resize: none;
+    
+}
+
+.footer p:hover {
+    
+    color: #30bae7;
+    cursor: pointer;
+}
+
+#facebook {
+    
+    margin-left:380px ; 
+    display:inline-block
+}
+
+#twitter  {
+    
+    margin-left:30px ; 
+    display:inline-block
+}
+
+#google {
+    
+    margin-left:30px ; 
+    display:inline-block
+}
+
+#linkedin {
+    
+    margin-left:30px ; 
+    display:inline-block
+}
+
+#behance {
+    
+    margin-left:30px ; 
+    display:inline-block
+}
+
+#dribble {
+    
+    margin-left:30px ; 
+    display:inline-block
+}
+
+#github {
+    
+    margin-left:30px ; 
+    display:inline-block
+}
+
+.socialLink {
+    
+    font-size:13px ; 
+    padding:10px
+}
